@@ -5,4 +5,5 @@
 -Natriummangel
 -Stress
 
-Renin von Niere -> Leber
+Renin von Niere -> Leber 
+Angiotensinogen + Renin = Angiotensin I
