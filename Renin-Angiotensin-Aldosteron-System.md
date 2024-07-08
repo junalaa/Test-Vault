@@ -4,3 +4,5 @@
 -> niedriger Blutdruck
 -Natriummangel
 -Stress
+
+Renin von Niere -> Leber
