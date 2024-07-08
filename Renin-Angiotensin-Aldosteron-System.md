@@ -7,3 +7,4 @@
 
 Renin von Niere -> Leber 
 Angiotensinogen + Renin = Angiotensin I
+Angiotensin I + ACE = Angiotensin II
