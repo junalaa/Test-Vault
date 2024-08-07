@@ -6,11 +6,18 @@
 
 **Daheim**
 - [x] Switch Shell replacement
-- [ ] sync (git)
+- [ ] sync (git aber ohne extras)
+- [ ] neue eMail für Git
+- [ ] neue eMail für ??
 - [x] Wig versenden
 - [ ] DS lite reparieren
 - [x] Abrechnung
-- [ ] neue eMail für Git
+- [ ] Obsidian dokumentieren Projekte
+- [ ] Website
+	- [ ] CSS lernen
+	- [ ] gutes html schreiben
+	- [ ] PixelArt machen
+- [ ] Smart H7 austauschen
 
 **Unterwegs**
 - [x] Leo Hosen bezahlen 

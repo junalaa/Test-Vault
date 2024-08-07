@@ -1,9 +1,6 @@
-Jana@delkov.com
-Ny436814527:3
 - [x] Überweisung
- ![[IMG_20240502_164037 1.jpg]]
 
-**Cosplay** (Miku)
+**Cosplay**
 - Wig
 	- [x] bestellt
 	- [x] angekommen
@@ -13,17 +10,17 @@ Ny436814527:3
 	- [x] Größe ausgemessen
 	- [x] bestellt
 	- [x] angekommen
-	- [ ] passt?
-	- [ ] Modifikationen?
+	- [x] passt?
+	- [x] Modifikationen?
 - Hairpieces und Headphones
 	- [ ] mit Leo besprechen wie wir es basteln
 	- [ ] Material besorgen
 	- [ ] basteln
 - Kosmetik
-	- [ ] Makeup planen
+	- [x] Makeup planen
 	- [ ] Makeup üben
 	- [x] Nagellack ausprobieren
 - Lauch 
 	- [ ] bastel?
 - Overknees
-	- [ ] dünne Strumpfhose drunter
+	- [ ] enger nähen
